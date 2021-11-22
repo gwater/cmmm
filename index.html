@@ -3,7 +3,7 @@
   <head>
 
 
-    <title>Vorkaufsrecht Berlin</title>
+    <title>Vorkaufsrecht Berlin, Stand 2021</title>
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -26,61 +26,41 @@
       crossorigin=""
     ></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
-
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
+    <script type="text/javascript" src="https://stamen-maps.a.ssl.fastly.net/js/tile.stamen.js?v1.3.0"></script>
+    <style>
+    .leaflet-marker-icon {
+        background: none;
+        border: none;
+        font-size: 2em;
+    }
+    .bluedivicon {
+        /*color: #5424dd;*/
+        color: #1F51FF;
+    }
+    .greendivicon {
+        color: #ff1178;
+    }
+    </style>
   </head>
   <body>
 
-    <div id="mapid" style="width: 1900px; height: 950px;"></div>
+    <div id="mapid" style="width: 100%; height: 800px;"></div>
     <script>
-      var map = L.map("mapid").setView([52.541301, 13.3341968], 12);
+      var map = L.map("mapid").setView([52.5170365, 13.3888599], 12);
 
-      L.tileLayer(
-        "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw",
-        {
-          maxZoom: 18,
-          attribution:
-            'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
-            'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-          id: "mapbox/streets-v11",
-          tileSize: 512,
-          zoomOffset: -1
-        }
-      ).addTo(map);
+    var layer = new L.StamenTileLayer("toner");
+    map.addLayer(layer);
 
-      // create 3 types of markers in 3 colors
-
-      var LeafIcon = L.Icon.extend({
-        options: {
-          iconSize: [25, 41],
-          iconAnchor: [10, 41],
-          popupAnchor: [2, -40]
-        }
-      });
-
-      // Read markers data from data.csv
+    // Read markers data from data.csv
       $.get("./data.csv", function (csvString) {
         // Use PapaParse to convert string to array of objects
         var data = Papa.parse(csvString, { header: true, dynamicTyping: true })
           .data;
 
-        var greenIcon = new LeafIcon({
-            iconUrl:
-              "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png"
-          }),
-          yellowIcon = new LeafIcon({
-            iconUrl:
-              "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-gold.png"
-          }),
-          redIcon = new LeafIcon({
-            iconUrl:
-              "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png"
-          });
-        blueIcon = new LeafIcon({
-          iconUrl:
-            "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png"
-        });
+        blueIcon2 = L.divIcon({className: 'bluedivicon', html: "•", iconSize: [5,32], iconAnchor: [3, 16]});
+        greenIcon2 = L.divIcon({className: 'greendivicon', html: "×", iconSize: [7,32], iconAnchor: [5, 16]});
+        // some unicode icons: ⬤ • + ×
 
         // For each row in data, create a marker and add it to the map
         // For each row, columns `Latitude`, `Longitude`, and `Title` are required
@@ -88,7 +68,7 @@
           var row = data[i];
 
           const marker = L.marker([row.lat, row.long], {
-            icon: row.result === "AV" ? greenIcon : blueIcon
+            icon: row.result === "AV" ? greenIcon2 : blueIcon2
           })
             .addTo(map)
             .bindPopup(row.display_na)
@@ -101,8 +81,7 @@
       //    icon: row.result === "hier neuen Wert"
       // })
 
-
-
     </script>
+    <p>based on <a href="https://github.com/nashtash/cmmm">https://github.com/nashtash/cmmm</a> with added data</p>
   </body>
 </html>
