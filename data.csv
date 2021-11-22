@@ -79,7 +79,7 @@ VK,privat,2429468332,"Aufschnitt, 32, Boxhagener Straße, Samariterviertel, Frie
 VK,privat,37960580,"1, Forster Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10999, Deutschland",52.49625495,13.433997704635615
 VK,LWU,3163972948,"95, Gneisenaustraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10961, Deutschland",52.4920905,13.3933179
 VK,privat,2825036481,"36, Krossener Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10245, Deutschland",52.5093827,13.4648619
-,,3036860838,"67, Urbanstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10967, Deutschland",52.4889211,13.4218746
+VK,,3036860838,"67, Urbanstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10967, Deutschland",52.4889211,13.4218746
 VK,privat,2824977545,"101, Rigaer Straße, Hausburgviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10247, Deutschland",52.5181845,13.4556519
 VK,privat,2825035452,"19, Holteistraße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10245, Deutschland",52.50963,13.466936
 VK,privat,108623172,"8, Heckmannufer, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10997, Deutschland",52.49638015,13.446586693010143
@@ -94,7 +94,6 @@ VK,,2949210443,"71, Meyerbeerstraße, Komponistenviertel, Weißensee, Pankow, Be
 VK,,3039518886,"84, Berliner Straße, Arnimkiez, Prenzlauer Berg, Pankow, Berlin, 13189, Deutschland",52.5565441,13.4147685
 AV,,7310701602,"Bauglaserei Gillert, 55, Danziger Straße, Kollwitzkiez, Prenzlauer Berg, Pankow, Berlin, 10435, Deutschland",52.5398969,13.421193
 AV,,2979444850,"60, Brehmestraße, Pankow, Berlin, 13187, Deutschland",52.5637421,13.3958688
-AV,,163925239,"16, Belforter Straße, Kollwitzkiez, Prenzlauer Berg, Pankow, Berlin, 10405, Deutschland",52.53193365,13.418866347284487
 AV,,1723300532,"5, Grunowstraße, Pankow, Berlin, 13187, Deutschland",52.5679792,13.409013
 AV,,3481041232,"57, Vinetastraße, Pankow, Berlin, 13189, Deutschland",52.5588937,13.4167176
 AV,,2579620919,"23, Cantianstraße, Gleimviertel, Prenzlauer Berg, Pankow, Berlin, 10437, Deutschland",52.5465421,13.4097493
@@ -104,8 +103,8 @@ AV,,96829068,"34, Bötzowstraße, Bötzowviertel, Prenzlauer Berg, Pankow, Berli
 AV,,582747040,"Café Bar Chagall, 2, Kollwitzstraße, Kollwitzkiez, Prenzlauer Berg, Pankow, Berlin, 10405, Deutschland",52.5313153,13.412804
 AV,,1552569994,"25, Christinenstraße, Spandauer Vorstadt, Prenzlauer Berg, Mitte, Berlin, 10119, Deutschland",52.5330873,13.4106008
 AV,,521391222,"17, Paul-Robeson-Straße, Arnimkiez, Prenzlauer Berg, Pankow, Berlin, 10439, Deutschland",52.5527557,13.4073451
-AV,,4353662601,"Momenti Di Vini, 15, Florastraße, Pankow, Berlin, 13187, Deutschland",52.5655124,13.4009605
-AV,,2964178956,"16, Florastraße, Karow, Pankow, Berlin, 13125, Deutschland",52.6108624,13.4737872
+AV,,4353662601,"15, Florastraße, Pankow, Berlin, 13187, Deutschland",52.5655042,13.4010987
+AV,,2964178956,"16, Florastraße, Pankow, Berlin, 13125, Deutschland",52.5654788,13.4013651
 AV,,2980269178,"40, Görschstraße, Pankow, Berlin, 13187, Deutschland",52.5649462,13.4009918
 AV,,2980269179,"41, Görschstraße, Pankow, Berlin, 13187, Deutschland",52.5650934,13.4009656
 AV,,823779645,"Moc, 28, Lychener Straße, Kollwitzkiez, Prenzlauer Berg, Pankow, Berlin, 10437, Deutschland",52.5428945,13.4168345
@@ -136,7 +135,6 @@ AV,,4439289680,"E-Zigaretten, 34, Dominicusstraße, Rote Insel, Schöneberg, Tem
 AV,,8423496194,"Kalus Brunnemann, 44, Grunewaldstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10825, Deutschland",52.4888966,13.3419528
 AV,,145468549,"18, Schwerinstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10783, Deutschland",52.4972856,13.35842819311514
 AV,,3450393998,"16 / 2, Hohenfriedbergstraße, Rote Insel, Schöneberg, Tempelhof-Schöneberg, Berlin, 10829, Deutschland",52.4859352,13.364938
-AV,,,,52.586725117635865, 13.367365204195185
 AV,,1882753758,"28, Welserstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10777, Deutschland",52.4995905,13.3428535
 AV,,38570337,"55, Ebersstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10827, Deutschland",52.47825535,13.345502085965661
 AV,,3837620215,"11, Kurmärkische Straße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10783, Deutschland",52.4997364,13.3580751
@@ -195,3 +193,172 @@ AV,,,,52.46163125919153, 13.520347237324899
 AV,,3744149076,"11, Kernhofer Straße, Victoriastadt, Rummelsburg, Lichtenberg, Berlin, 10317, Deutschland",52.5038394,13.4775049
 AV,,3060867732,"98, Pfarrstraße, Victoriastadt, Rummelsburg, Lichtenberg, Berlin, 10317, Deutschland",52.5059883,13.4774672
 VK,LWU,3060867042,"14, Irenenstraße, Weitlingkiez, Rummelsburg, Lichtenberg, Berlin, 10317, Deutschland",52.5090308,13.5022911
+AV,,,"26,  Auerstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5198315,13.4451052
+AV,,,"41,  Auerstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5208995,13.4458098
+AV,,,"43,  Auerstraße, Friedrichshain-Kreuzberg, Berlin, Germany",52.5210023,13.4459211
+AV,,,"4,  Bergfriedstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.50092265,13.411287350925926
+AV,,,"6,  Bergfriedstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5007387,13.41109285394953
+AV,,,"33,  Blücherstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4913628,13.4036579
+AV,,,"68,  Dieffenbachstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4937268,13.4126616
+AV,,,"15,  Dresdener str., Friedrichshain-Kreuzberg, Berlin, Germany",52.50100755,13.417187380060122
+AV,,,"19,  Ebertystr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5226759,13.4537284
+AV,,,"33,  Ebertystr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5226732,13.4540307
+AV,,,"5,  Ebertystr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5264376,13.4511768
+AV,,,"10,  Falckensteinstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4987746,13.4423393
+AV,,,"28,  Falckensteinstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4973097,13.4412768
+AV,,,"41,  Falckensteinstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4992708,13.443254
+AV,,,"42,  Falckensteinstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.499344449999995,13.44343897909005
+AV,,,"5,  Falckensteinstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4995967,13.4432403
+AV,,,"7,  Falckensteinstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4992062,13.4428504
+AV,,,"5,  Freiligrathstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4911144,13.4094933
+AV,,,"13,  Fürbringerstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4929187,13.3965938
+AV,,,"70,  Gneisenaustr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4904605,13.4013253
+AV,,,"82,  Gneisenaustr., Friedrichshain-Kreuzberg, Berlin, Germany",52.491311,13.397222
+AV,,,"69,  Görlitzer Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4985849,13.4346712
+AV,,,"40,  Graefestr., Friedrichshain-Kreuzberg, Berlin, Germany",52.48934,13.414218862313433
+AV,,,"31,  Grünberger Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.5124165,13.4535649
+AV,,,"90,  Grünberger Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.5107418,13.4622426
+AV,,,"50,  Hasenheide, Friedrichshain-Kreuzberg, Berlin, Germany",52.48915165,13.410756826674568
+AV,,,"15,  Heimstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4871704,13.3969674
+AV,,,"32,  Katzbachstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4902612,13.3770016
+AV,,,"20,  Kottbusser Damm, Friedrichshain-Kreuzberg, Berlin, Germany",52.4917687,13.4225758
+AV,,,"35,  Kottbusser Damm, Friedrichshain-Kreuzberg, Berlin, Germany",52.4885832,13.4245676
+AV,,,"36,  Kottbusser Damm, Friedrichshain-Kreuzberg, Berlin, Germany",52.4883754,13.4246967
+AV,,,"1,  Lachmannstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4916607,13.4222625
+AV,,,"52,  Lausitzer Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4988756,13.4305524
+AV,,,"110,  Manteuffelstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5030348,13.4298034
+AV,,,"12,  Mittenwalder Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4928366,13.3966797
+AV,,,"46,  Mittenwalder Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4921114,13.3968587
+AV,,,"42,  Naunynstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.503004950000005,13.41802420831717
+AV,,,"86,  Naunynstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5005064,13.425783870705422
+AV,,,"67,  Obentrautstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4970759,13.3809682
+AV,,,"19,  Oderstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5111652,13.4678047
+AV,,,"2,  Ohlauer Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.497204749999995,13.431572792662333
+AV,,,"33,  Oranienstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.50164595,13.41849445740624
+AV,,,"68,  Petersburger Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.5199103,13.4516124
+AV,,,"69,  Petersburger Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.5198489,13.4525713
+AV,,,"89,  Petersburger Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.5176558,13.4538053
+AV,,,"18,  Pintschstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.522874,13.4482126
+AV,,,"108,  Reichenberger Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4940447,13.4360828
+AV,,,"181,  Reichenberger Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4998996,13.4159457
+AV,,,"182,  Reichenberger Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4999743,13.4156983
+AV,,,"183,  Reichenberger Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.5000448,13.4154561
+AV,,,"3,  Reichenberger Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4997746,13.415369544957382
+AV,,,"4,  Reichenberger Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4997746,13.415369544957382
+AV,,,"114,  Ritterstr, Friedrichshain-Kreuzberg, Berlin, Germany",52.5011079,13.4108558
+AV,,,"115,  Ritterstr, Friedrichshain-Kreuzberg, Berlin, Germany",52.5010394,13.4110846
+AV,,,"14,  Schlesische str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4994004,13.4448583
+AV,,,"17,  Seumestr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5106086,13.4624091
+AV,,,"18,  Seumestr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5104553,13.4623097
+AV,,,"100,  Skalitzer Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.49965135,13.428384817056827
+AV,,,"46a,  Skalitzer Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4989295,13.4306954
+AV,,,"74,  Skalitzer Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.5009306,13.4406906
+AV,,,"74A,  Skalitzer Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.5009918,13.4409582
+AV,,,"19,  Sorauer str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4980078,13.4377968
+AV,,,"2,  Sorauer str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4994689,13.4388335
+AV,,,"31,  Sorauer Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.4994725,13.4391647
+AV,,,"29,  Straßmannstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5227734,13.4516775
+AV,,,"26,  Urbanstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.492039950000006,13.410891600923144
+AV,,,"83,  Urbanstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.488391,13.4243568
+AV,,,"114,  Waldemarstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5008738,13.4287471
+AV,,,"50,  Waldemarstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.502988,13.42104224278439
+AV,,,"19,  Weichselstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5102593,13.4677161
+AV,,,"22,  Wiener Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.49735535,13.431448318324605
+AV,,,"43,  Wrangelstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4994959,13.4394767
+AV,,,"5,  Wrangelstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5043032,13.4276641
+AV,,,"82,  Wrangelstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4986294,13.442209
+AV,,,"83,  Wrangelstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.4987297,13.4418368
+AV,,,"23,  Cantianstraße, Pankow, Berlin, Germany",52.5465421,13.4097493
+AV,,,"10,  Gaudystraße, Pankow, Berlin, Germany",52.5463662,13.4096314
+AV,,,"34,  Bötzowstraße, Pankow, Berlin, Germany",52.53216205,13.43511934086663
+AV,,,"25,  Christinenstraße, Pankow, Berlin, Germany",52.5330873,13.4106008
+AV,,,",  Kollwitzstraße 2, Pankow, Berlin, Germany",52.5313002,13.4126801
+AV,,,"17,  Saarbrücker straße, Pankow, Berlin, Germany",52.5312006,13.4126119
+AV,,,"17,  Paul-Robeson-straße, Pankow, Berlin, Germany",52.5527557,13.4073451
+AV,,,"41a,  Görschstraße, Pankow, Berlin, Germany",52.5652713,13.4009534
+AV,,,"41b,  Görschstraße, Pankow, Berlin, Germany",52.5654476,13.4009356
+AV,,,"40,  Görschstraße, Pankow, Berlin, Germany",52.5649462,13.4009918
+AV,,,"41,  Görschstraße, Pankow, Berlin, Germany",52.5650934,13.4009656
+AV,,,"18,  Baumbachstr., Pankow, Berlin, Germany",52.5535278,13.4206181
+AV,,,"19,  Cantianstraße, Pankow, Berlin, Germany",52.5469071,13.4100471
+AV,,,"8,  Czarnikauer Str., Pankow, Berlin, Germany",52.5535846,13.404591
+AV,,,"8a,  Czarnikauer Str., Pankow, Berlin, Germany",52.5535969,13.4043931
+AV,,,"108,  Danziger Str., Pankow, Berlin, Germany",52.536692,13.4306884
+AV,,,"6,  Gethsemanestraße, Pankow, Berlin, Germany",52.5480041,13.4176193
+AV,,,"17,  Schulzestr., Pankow, Berlin, Germany",52.56722165,13.391489759595641
+AV,,,"21a,  Wollankstraße, Pankow, Berlin, Germany",52.5652798,13.394258949926522
+AV,,,"224,  Hermannstraße, Neukölln, Berlin, Germany",52.4802058,13.4255151
+AV,,,"49,  Flughafenstraße, Neukölln, Berlin, Germany",52.480656,13.42626
+AV,,,"24,  Anzengruber, Neukölln, Berlin, Germany",52.4802991,13.4376009
+AV,,,"216,  Sonnenallee, Neukölln, Berlin, Germany",52.4739565,13.4552702
+AV,,,"218,  Sonnenallee, Neukölln, Berlin, Germany",52.4738827,13.4554439
+AV,,,"18,  Nogatstr., Neukölln, Berlin, Germany",52.4695756,13.433185
+AV,,,"142,  Sonnenallee, Neukölln, Berlin, Germany",52.479136,13.44477
+AV,,,"42,  Roseggerstr., Neukölln, Berlin, Germany",52.4790294,13.4447801
+AV,,,"43,  Roseggerstr., Neukölln, Berlin, Germany",52.4789283,13.4446309
+AV,,,"6,  Wildenbruchplatz, Neukölln, Berlin, Germany",52.4833398,13.4448152
+AV,,,"7,  Wildenbruchplatz, Neukölln, Berlin, Germany",52.4832256,13.4450383
+AV,,,"13,  Finowstr., Neukölln, Berlin, Germany",52.4829829,13.4442193
+AV,,,"14,  Finowstr., Neukölln, Berlin, Germany",52.4831125,13.4443958
+AV,,,"15,  Finowstr., Neukölln, Berlin, Germany",52.4832137,13.4445336
+AV,,,"3,  Kleine Innstr., Neukölln, Berlin, Germany",52.4827107,13.444559
+AV,,,"4,  Kleine Innstr., Neukölln, Berlin, Germany",52.4827937,13.4443912
+AV,,,"5,  Kleine Innstr., Neukölln, Berlin, Germany",52.482884,13.4442086
+AV,,,"63,  Bremer Str., Mitte, Berlin, Germany",52.52894905,13.337648396934714
+AV,,,"64,  Bremer Str., Mitte, Berlin, Germany",52.52894905,13.337648396934714
+AV,,,"38,  Emdener Str., Mitte, Berlin, Germany",52.5318109,13.3343207
+AV,,,"39,  Emdener Str., Mitte, Berlin, Germany",52.5316382,13.3342781
+AV,,,"14,  Kiautschoustr., Mitte, Berlin, Germany",52.540518,13.3557183
+AV,,,"18,  Kiautschoustr., Mitte, Berlin, Germany",52.5407721,13.3567956
+AV,,,"24,  Lübecker Str., Mitte, Berlin, Germany",52.5306659,13.345974601491967
+AV,,,"62,  Pankstr., Mitte, Berlin, Germany",52.5507206,13.3784749
+AV,,,"1,  Thurneysserstr., Mitte, Berlin, Germany",52.5507206,13.3782794
+AV,,,"103,  Potsdamer Str., Mitte, Berlin, Germany",52.5004028,13.3636153
+AV,,,"6,  Sprengelstr., Mitte, Berlin, Germany",52.5425709,13.3580526
+AV,,,"99,  Wollankstr., Mitte, Berlin, Germany",52.5641716,13.3930613
+AV,,,"74,  Steeger Str., Mitte, Berlin, Germany",52.5639953,13.3930919
+AV,,,"18,  Torfstr., Mitte, Berlin, Germany",52.5415173,13.3500284
+AV,,,"6,  Stephanstr., Mitte, Berlin, Germany",52.5346377,13.3527933
+AV,,,"38,  Bosestr., Tempelhof-Schöneberg, Berlin, Germany",52.46270415,13.377732848026188
+AV,,,"39,  Bosestr., Tempelhof-Schöneberg, Berlin, Germany",52.462651300000005,13.377959091372801
+AV,,,"57,  Ebersstr., Tempelhof-Schöneberg, Berlin, Germany",52.478295,13.346126928447134
+AV,,,"72,  Ebersstr., Tempelhof-Schöneberg, Berlin, Germany",52.4796022,13.351561453591057
+AV,,,"69,  Gotenstraße, Tempelhof-Schöneberg, Berlin, Germany",52.4825881,13.3604143
+AV,,,"1,  Goltzstr., Tempelhof-Schöneberg, Berlin, Germany",52.4901191,13.3533548
+AV,,,"16,  Grunewaldstr., Tempelhof-Schöneberg, Berlin, Germany",52.4900115,13.353607
+AV,,,"37,  Leberstr., Tempelhof-Schöneberg, Berlin, Germany",52.4829383,13.3615701
+AV,,,"67,  Leberstr., Tempelhof-Schöneberg, Berlin, Germany",52.4806761,13.3615336
+AV,,,"57A,  Manteuffelstr., Tempelhof-Schöneberg, Berlin, Germany",52.46214125,13.3772701
+AV,,,"4,  Naumannstraße, Tempelhof-Schöneberg, Berlin, Germany",52.4859805,13.3633691
+AV,,,"3,  Willmanndamm, Tempelhof-Schöneberg, Berlin, Germany",52.4905264,13.3639147
+AV,,,"44,  Roseggerstr., Neukölln, Berlin, Germany",52.4788243,13.4444784
+VK,,,"39,  Mehringdamm, Friedrichshain-Kreuzberg, Berlin, Germany",52.492419350000006,13.38791364840468
+VK,,,"56,  Corinthstraße, Friedrichshain-Kreuzberg, Berlin, Germany",52.4990204,13.4640777
+VK,,,"18,  Solmsstraße, Friedrichshain-Kreuzberg, Berlin, Germany",52.4912396,13.3923342
+VK,,,"37,  Boxhagener Str., Friedrichshain-Kreuzberg, Berlin, Germany",52.5118548,13.4617517
+VK,,,"19,  Gärtnerstr., Friedrichshain-Kreuzberg, Berlin, Germany",52.5118396,13.4615911
+VK,,,"16,  Belforter Straße, Pankow, Berlin, Germany",52.53193365,13.418866347284487
+VK,,,"56,  Gleimstraße, Pankow, Berlin, Germany",52.5468924,13.4031714
+VK,,,"71,  Meyerbeerstraße, Pankow, Berlin, Germany",52.5480129,13.4587071
+VK,,,"84,  Berliner straße, Pankow, Berlin, Germany",52.5565441,13.4147685
+VK,,,"67,  Lychener straße, Pankow, Berlin, Germany",52.5460998,13.4200406
+VK,,,"65,  Stargarder straße, Pankow, Berlin, Germany",52.5460001,13.4197867
+VK,,,"66,  Stargarder Straße, Pankow, Berlin, Germany",52.5460897,13.4195887
+VK,,,"29,  Hadlichstraße, Pankow, Berlin, Germany",52.5711304,13.4158283
+VK,,,"58,  Berliner Allee, Pankow, Berlin, Germany",52.5487194,13.4538115
+VK,,,"88,  Berliner Allee, Pankow, Berlin, Germany",52.5494164,13.4570695
+VK,,,"1,  Kuglerstraße, Pankow, Berlin, Germany",52.5528437,13.4150722
+VK,,,"89,  Schönhauser Allee, Pankow, Berlin, Germany",52.553023,13.4148706
+VK,,,"135,  Schönhauser Allee, Pankow, Berlin, Germany",52.5439313,13.4120326
+VK,,,"135a,  Schönhauser Allee, Pankow, Berlin, Germany",52.5438441,13.412014
+VK,,,"68,  Florastr., Pankow, Berlin, Germany",52.5655565,13.4057386
+VK,,,"164,  Weserstraße, Neukölln, Berlin, Germany",52.4831379,13.441602
+VK,,,"85,  Wildenbruchstraße, Neukölln, Berlin, Germany",52.483261,13.4420187
+VK,,,"86,  Wildenbruchstraße, Neukölln, Berlin, Germany",52.4831376,13.4418549
+VK,,,"8,  Boddinstraße, Neukölln, Berlin, Germany",52.4808447,13.4326463
+VK,,,"48,  Hermannstraße, Neukölln, Berlin, Germany",52.4784135,13.4255481
+VK,,,"2,  Laubestraße, Neukölln, Berlin, Germany",52.4830313,13.4393564
+VK,,,"Choriner Str. 12, Pankow, Berlin, Germany",52.5330244,13.4071533
+AV,,,"16, Kienitzer Straße, Neukölln, Berlin, Germany",52.4773819,13.4362429
+AV,,,"43, Weisestraße",52.4754339,13.424724
+AV,,,"44, Weisestraße",52.4756052,13.4246718
