@@ -33,7 +33,6 @@ AV,,2830792646,"Wein & Jazz, 64, Wrangelstraße, Luisenstadt, Kreuzberg, Friedri
 AV,,2830791737,"21, Lübbener Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10997, Deutschland",52.4992729,13.4370993
 AV,,,,52.49601660004654, 13.428179105478323
 AV,,2496651178,"Sparkasse, 6, Gneisenaustraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10961, Deutschland",52.4922683,13.3893067
-AV,,775875393,"46-47, Eisenbahnstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10997, Deutschland",52.5012618,13.4312434
 AV,,814265987,"Skalitzer Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10999, Deutschland",52.4986283,13.4145311
 AV,,3457226647,"32, Straßmannstraße, Hausburgviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10249, Deutschland",52.5226411,13.4521676
 AV,,350462678,"Maroush, 93, Adalbertstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10999, Deutschland",52.5009253,13.418855
@@ -63,7 +62,6 @@ VK,LWU,2495675154,"17, Heimstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin,
 VK,LWU,3457226586,"16, Ebelingstraße, Hausburgviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10249, Deutschland",52.5236681,13.4506233
 VK,LWU,,,52.52172750469436, 13.452596580455717
 VK,LWU,40686340,"15, Eckertstraße, Hausburgviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10249, Deutschland",52.5192352,13.450195905555557
-VK,privat,4686490,"Eisenbahnstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10997, Deutschland",52.5034739,13.433708
 VK,LWU,108680479,"30, Mariannenstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10999, Deutschland",52.497030949999996,13.420895959487352
 VK,LWU,2844489890,"14, Pintschstraße, Hausburgviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10249, Deutschland",52.5234173,13.4478435
 VK,LWU,6418169905,"14, Muskauer Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10997, Deutschland",52.5022533,13.4297696
@@ -429,3 +427,7 @@ AV,,,"87,  Reinickendorfer Straße, Mitte, Berlin, Germany",52.5492407,13.368235
 VK,,,"19a, Holteistraße, Friedrichshain-Kreuzberg, Berlin, Germany",52.5095426,13.4668827
 VK,,,"44, Cuvrystraße, Friedrichshain-Kreuzberg, Berlin, Germany",52.4981585,13.4448991
 VK,,,"45, Cuvrystraße, Friedrichshain-Kreuzberg, Berlin, Germany",52.4982768,13.4449844
+VK,,,"2, Eisenbahnstraße, Friedrichshain-Kreuzberg, Berlin, Germany",52.5015854,13.4319506
+VK,,,"3, Eisenbahnstraße, Friedrichshain-Kreuzberg, Berlin, Germany",52.5016781,13.4320457
+VK,,,"46-47, Eisenbahnstraße, Friedrichshain-Kreuzberg, Berlin, Germany",52.5012618,13.4312434
+VK,,,"10, Muskauer Straße, Friedrichshain-Kreuzberg, Berlin, Germany",52.5013834,13.431999
