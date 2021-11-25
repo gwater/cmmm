@@ -1,6 +1,5 @@
 result,Käufer,osm_id,display_na,lat,long
 AV,,2299953784,"Mini-Kaufhaus-Meyer, 14, Amsterdamer Straße, Leopoldkiez, Wedding, Mitte, Berlin, 13347, Deutschland",52.5517197,13.3574034
-AV,,201855152,"Liebenwalder Straße, Leopoldkiez, Wedding, Mitte, Berlin, 13347, Deutschland",52.5520112,13.3620784
 AV,,,,52.544680, 13.357530
 AV,,535273292,"arema, 30, Birkenstraße, Moabit, Mitte, Berlin, 10551, Deutschland",52.532242,13.3422769
 AV,,247340733,"Lüderitzstraße, Afrikanisches Viertel, Wedding, Mitte, Berlin, 13351, Deutschland",52.5531108,13.344164
@@ -431,3 +430,9 @@ VK,,,"2, Eisenbahnstraße, Friedrichshain-Kreuzberg, Berlin, Germany",52.5015854
 VK,,,"3, Eisenbahnstraße, Friedrichshain-Kreuzberg, Berlin, Germany",52.5016781,13.4320457
 VK,,,"46-47, Eisenbahnstraße, Friedrichshain-Kreuzberg, Berlin, Germany",52.5012618,13.4312434
 VK,,,"10, Muskauer Straße, Friedrichshain-Kreuzberg, Berlin, Germany",52.5013834,13.431999
+AV,,,"Liebenwalder Str. 24, 13347, Berlin, Germany",52.5520812,13.3598729
+AV,,,"Liebenwalder Str. 25, 13347, Berlin, Germany",52.5522624,13.3599264
+AV,,,"Liebenwalder Str. 26, 13347, Berlin, Germany",52.5522262,13.359646
+AV,,,"Liebenwalder Str. 27, 13347, Berlin, Germany",52.5522594,13.3593815
+AV,,,"Liebenwalder Str. 28, 13347, Berlin, Germany",52.5520591,13.3594582
+AV,,,"Liebenwalder Str. 29, 13347, Berlin, Germany",52.5519842,13.3590648
