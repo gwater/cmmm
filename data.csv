@@ -1,6 +1,6 @@
 result,Käufer,osm_id,display_na,lat,long
 AV,,2299953784,"Mini-Kaufhaus-Meyer, 14, Amsterdamer Straße, Leopoldkiez, Wedding, Mitte, Berlin, 13347, Deutschland",52.5517197,13.3574034
-AV,,,,52.544680, 13.357530
+AV,,,"Genter Str. 11, 13353 Berlin",52.544680, 13.357530
 AV,,535273292,"arema, 30, Birkenstraße, Moabit, Mitte, Berlin, 10551, Deutschland",52.532242,13.3422769
 AV,,247340733,"Lüderitzstraße, Afrikanisches Viertel, Wedding, Mitte, Berlin, 13351, Deutschland",52.5531108,13.344164
 AV,,4050299293,"Naturkost, 12, Kameruner Straße, Brüsseler Kiez, Wedding, Mitte, Berlin, 13351, Deutschland",52.550019,13.3457554
@@ -12,14 +12,14 @@ AV,,2299451925,"56, Triftstraße, Sprengelkiez, Wedding, Mitte, Berlin, 13353, D
 AV,,2753798974,"22, Kattegatstraße, Gesundbrunnen, Mitte, Berlin, 13359, Deutschland",52.5652575,13.3892713
 AV,,5379571047,"26, Antonstraße, Sprengelkiez, Wedding, Mitte, Berlin, 13347, Deutschland",52.5485296,13.3656722
 AV,,1270574283,"43, Kameruner Straße, Brüsseler Kiez, Wedding, Mitte, Berlin, 13351, Deutschland",52.5493129,13.3452697
-AV,,,,52.542440, 13.363610
+AV,,,"Willdenowstr. 3, 13353 Berlin",52.542440, 13.363610
 AV,,1377910813,"23, Emdener Straße, Moabit, Mitte, Berlin, 10551, Deutschland",52.5315523,13.3345383
 AV,,2492377729,"16, Kiautschoustraße, Sprengelkiez, Wedding, Mitte, Berlin, 13353, Deutschland",52.5406589,13.3563156
 AV,,2676786167,"24, Schönwalder Straße, Gesundbrunnen, Mitte, Berlin, 13347, Deutschland",52.5419938,13.3725152
-AV,,,,52.551470, 13.357520
+AV,,,"Amsterdamer Str. 13",52.551470, 13.357520
 AV,,2753639354,"6, Kattegatstraße, Gesundbrunnen, Mitte, Berlin, 13359, Deutschland",52.5642923,13.3913925
 AV,,678047301,"55, Stromstraße, Moabit, Mitte, Berlin, 10551, Deutschland",52.5279642,13.3430481
-AV,,,,52.542880, 13.372340
+AV,,,"Ravenéstr. 8, 13347 Berlin",52.542880, 13.372340
 AV,,1270556959,"113, Seestraße, Brüsseler Kiez, Wedding, Mitte, Berlin, 13353, Deutschland",52.5476899,13.3458932
 VK,LWU,1362462416,"50, Rathenower Straße, Moabit, Mitte, Berlin, 10559, Deutschland",52.5319777,13.3506697
 VK,LWU,3140302232,"Vulkan Stern, 166A, Müllerstraße, Sprengelkiez, Wedding, Mitte, Berlin, 13353, Deutschland",52.5427437,13.3650819
@@ -30,7 +30,7 @@ VK,LWU,2752211182,"Salon Elegant, 36, Prinzenallee, Soldiner Kiez, Gesundbrunnen
 AV,,37577778,"9, Oranienstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10997, Deutschland",52.50003655,13.424376995251093
 AV,,2830792646,"Wein & Jazz, 64, Wrangelstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10997, Deutschland",52.4973342,13.4446357
 AV,,2830791737,"21, Lübbener Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10997, Deutschland",52.4992729,13.4370993
-AV,,,,52.49601660004654, 13.428179105478323
+AV,,,"Reichenberger Str. 55, 10999 Berlin",52.49601660004654, 13.428179105478323
 AV,,2496651178,"Sparkasse, 6, Gneisenaustraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10961, Deutschland",52.4922683,13.3893067
 AV,,3457226647,"32, Straßmannstraße, Hausburgviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10249, Deutschland",52.5226411,13.4521676
 AV,,350462678,"Maroush, 93, Adalbertstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10999, Deutschland",52.5009253,13.418855
@@ -53,11 +53,11 @@ AV,,2438957498,"Sofi, 36, Wühlischstraße, Friedrichshain, Friedrichshain-Kreuz
 VK,LWU,2830792652,"66, Wrangelstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10997, Deutschland",52.4971077,13.4451431
 VK,LWU,2840615615,"3, Glogauer Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10999, Deutschland",52.494462,13.4382042
 VK,privat,3163972883,"48, Zossener Straße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10961, Deutschland",52.4935833,13.3952277
-VK,LWU,,,52.498966580097694, 13.44247261918558
+VK,LWU,,"Falckensteinstraße 33",52.4979289,13.4418972
 VK,LWU,2496789925,"18, Zossener Straße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10961, Deutschland",52.4908053,13.3939892
 VK,LWU,2495675154,"17, Heimstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10965, Deutschland",52.4874748,13.397021
 VK,LWU,3457226586,"16, Ebelingstraße, Hausburgviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10249, Deutschland",52.5236681,13.4506233
-VK,LWU,,,52.52172750469436, 13.452596580455717
+VK,LWU,,"Matternstraße 4, Friedrichshain-Kreuzberg, Berlin",52.5216258,13.4524399
 VK,LWU,40686340,"15, Eckertstraße, Hausburgviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10249, Deutschland",52.5192352,13.450195905555557
 VK,LWU,108680479,"30, Mariannenstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10999, Deutschland",52.497030949999996,13.420895959487352
 VK,LWU,2844489890,"14, Pintschstraße, Hausburgviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10249, Deutschland",52.5234173,13.4478435
@@ -119,7 +119,7 @@ AV,,3056513425,"14, Vorbergstraße, Rote Insel, Schöneberg, Tempelhof-Schönebe
 AV,,2286559056,"35, Alboinstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, 12103, Deutschland",52.4659205,13.3704744
 AV,,3072942335,"12, Hochkirchstraße, Rote Insel, Schöneberg, Tempelhof-Schöneberg, Berlin, 10829, Deutschland",52.4902949,13.3689618
 AV,,1829072813,"17, Salzburger Straße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10825, Deutschland",52.4871232,13.3417418
-AV,,,,52.48699675842772, 13.352349820779631
+AV,,,"Merseburger Str. 15, 10823 Berlin",52.48699675842772, 13.352349820779631
 AV,,3444591324,"23, Gotenstraße, Rote Insel, Schöneberg, Tempelhof-Schöneberg, Berlin, 10829, Deutschland",52.4802967,13.3601058
 AV,,7840149950,"Nordliebe, 18, Goltzstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10781, Deutschland",52.4935455,13.3538745
 AV,,2285961625,"22, Manteuffelstraße, Tempelhof, Tempelhof-Schöneberg, Berlin, 12103, Deutschland",52.4594366,13.3760837
@@ -176,10 +176,10 @@ VK,LWU,567570641,"59,60, Hobrechtstraße, Reuterkiez, Neukölln, Berlin, 12047, 
 VK,LWU,3409259359,"8, Leinestraße, Schillerkiez, Neukölln, Berlin, 12049, Deutschland",52.4732875,13.4258831
 VK,LWU,,,52.4909033418323, 13.44707513732535
 VK,LWU,,,52.46161751490446, 13.522153004513006
-AV,,,,52.46610345017998, 13.509478631098894
-AV,,,,52.454898091620365, 13.512775733056603
-AV,,,,52.492354074726016, 13.445365836879345
-AV,,,,52.46190291927101, 13.521882797033955
+AV,,,"Wattstr. 12, 12459 Berlin",52.46610345017998, 13.509478631098894
+AV,,,"Michael-Brückner-Str. 8, 12439 Berlin",52.454898091620365, 13.512775733056603
+AV,,,"Karl-Kunger-Str. 5, 12435 Berlin",52.492354074726016, 13.445365836879345
+AV,,,"Firlstr. 32, 12459 Berlin",52.46190291927101, 13.521882797033955
 AV,,,,52.46163125919153, 13.520347237324899
 AV,,3744149076,"11, Kernhofer Straße, Victoriastadt, Rummelsburg, Lichtenberg, Berlin, 10317, Deutschland",52.5038394,13.4775049
 AV,,3060867732,"98, Pfarrstraße, Victoriastadt, Rummelsburg, Lichtenberg, Berlin, 10317, Deutschland",52.5059883,13.4774672
