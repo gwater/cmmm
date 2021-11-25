@@ -166,8 +166,6 @@ AV,,2820324580,"14, Biebricher Straße, Flughafenkiez, Neukölln, Berlin, 12053,
 VK,LWU,7868767685,"1210 BERLIN, 10, Liberdastraße, Reuterkiez, Neukölln, Berlin, 12047, Deutschland",52.4922949,13.4299427
 VK,LWU,2823022588,"5, Uthmannstraße, Böhmisches Dorf, Neukölln, Berlin, 12043, Deutschland",52.4755793,13.4425451
 VK,LWU,2275847315,"47, Roseggerstraße, Böhmisches Dorf, Neukölln, Berlin, 12043, Deutschland",52.4784045,13.443857
-VK,LWU,56002688,"Kottbusser Damm, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10967, Deutschland",52.487968,13.4253196
-VK,LWU,56002688,"Kottbusser Damm, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10967, Deutschland",52.487968,13.4253196
 VK,LWU,502545681,"Zum böhmischen Dorf, 11, Sanderstraße, Reuterkiez, Neukölln, Berlin, 12047, Deutschland",52.4923371,13.4259409
 VK,LWU,1587307816,"16, Thiemannstraße, Rixdorf, Neukölln, Berlin, 12055, Deutschland",52.4763449,13.4495983
 VK,LWU,1717845603,"89, Harzer Straße, Neukölln, Berlin, 12059, Deutschland",52.4856582,13.4480616
@@ -175,7 +173,6 @@ VK,LWU,1584867865,"154, Sonnenallee, Böhmisches Dorf, Neukölln, Berlin, 12059,
 VK,LWU,,,52.48018617394423, 13.437779546765777
 VK,LWU,2823033643,"75, Elsenstraße, Neukölln, Berlin, 12059, Deutschland",52.4854379,13.4496215
 VK,LWU,567570641,"59,60, Hobrechtstraße, Reuterkiez, Neukölln, Berlin, 12047, Deutschland",52.4906781,13.426061
-VK,LWU,56002688,"Kottbusser Damm, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10967, Deutschland",52.487968,13.4253196
 VK,LWU,3409259359,"8, Leinestraße, Schillerkiez, Neukölln, Berlin, 12049, Deutschland",52.4732875,13.4258831
 VK,LWU,,,52.4909033418323, 13.44707513732535
 VK,LWU,,,52.46161751490446, 13.522153004513006
@@ -443,3 +440,5 @@ AV,,,"Skalitzer Str. 72, Friedrichshain-Kreuzberg, Berlin, Germany",52.5003986,1
 AV,,,"Glatzer Straße 2, 10247 Berlin",52.5095648,13.4660162
 AV,,,"Glatzer Straße 3, 10247 Berlin",52.5096833,13.4662509
 AV,,,"Kottbusser Damm 80, 12047 Berlin",52.4916601,13.4232362
+VK,,,"Kottbusser Damm 78, Neukölln, Berlin",52.4912844,13.4234509
+VK,,,"Pflügerstraße 82, Neukölln, Berlin",52.49125,13.4237243
